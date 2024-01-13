@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Malek
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Geometric Neural Networks
+- 🌱 I’m currently learning Geometric Deep Neural Networks
 - 💞️ I’m looking to collaborate on Deep Learning Projects
-- 📫 How to reach me [malek.aloui@enstab.ucar.tn](mailto:malek.aloui@enstab.ucar.tn)
+- 📫 How to reach me [malek.aloui@enstab.ucar.tn](mailto:malekaloui333@gmail.com)
+- 📄 Know about my experiences [Malek's Resume.](https://drive.google.com/file/d/1hZbfwvxBRz5W2L6-9TTL8bRbvGwVI45V/view?usp=sharing)
 
 
 
