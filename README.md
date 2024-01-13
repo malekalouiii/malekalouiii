@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Geometric Neural Networks
 - 💞️ I’m looking to collaborate on Deep Learning Projects
-- 📫 How to reach me [Email me](mailto:malek.aloui@enstab.ucar.tn)
+- 📫 How to reach me [malek.aloui@enstab.ucar.tn](mailto:malek.aloui@enstab.ucar.tn)
+
 
 
 <!---
